@@ -1,0 +1,30 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы и IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+
+# Локальные настройки (не коммитить)
+.claude/local/
+*.local.md
+
+# Секреты и конфиденциальные данные
+.env
+*.key
+*-config.local.json
+yougile-state.json
+task-state.json
+
+# Архивы задач (опционально)
+# .claude/archive/
